@@ -1,0 +1,25 @@
+{
+  "name": "express-validator-howto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliprumpung/express-validator-howto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliprumpung/express-validator-howto/issues"
+  },
+  "homepage": "https://github.com/aliprumpung/express-validator-howto#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-validator": "^5.0.3",
+    "hbs": "^4.0.1"
+  }
+}
